@@ -33,3 +33,6 @@ Interact with your PDF files in natural language using a lightweight Retrieval-A
 ```bash
 git clone https://github.com/ajay2002-web/chat-with-pdf-rag.git
 cd chat-with-pdf-rag
+
+**### 2. Install dependencies**
+pip install -r requirements.txt
