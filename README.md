@@ -2,7 +2,7 @@
 
 Interact with your PDF files in natural language using a lightweight Retrieval-Augmented Generation (RAG) system powered by **local embeddings** and **LLaMA 3**. Upload any PDF and ask real-time questions — the app finds relevant content and generates accurate, context-aware responses.
 
-![Streamlit App Screenshot](Screenshot 2025-07-27 210002.png) <!-- Replace with actual screenshot path -->
+![Streamlit App Screenshot](https://raw.githubusercontent.com/ajay2002-web/chat-with-pdf-rag/main/Screenshot%202025-07-27%20210002.png)
 
 ---
 
